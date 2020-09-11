@@ -10,6 +10,7 @@ body{background-color:white;}
     text-decoration: none;
     display: inline-block;
     font-size: 16px;
+    min-width: 90px;
 }
 
 .divWithButton {
