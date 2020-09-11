@@ -4,6 +4,7 @@ body{background-color:white;}
 .btn {
     background-color: greenyellow;
     border: none;
+    width: 24%;
     color: white;
     padding: 15px 32px;
     text-align: center;
@@ -15,6 +16,7 @@ body{background-color:white;}
 
 .divWithButton {
     margin: 5px;
+    width: 100%;
 }
 
 .btn-disabled{
@@ -24,6 +26,7 @@ body{background-color:white;}
 #inputShowScore {
     border: none;
     border-bottom: greenyellow solid 1px
+    
 }
 .btn:hover {
 background-color: honeydew;
@@ -33,9 +36,14 @@ background-color: honeydew;
     border: none;
     border-bottom: yellowgreen 1px;
     outline: none;
+    width: 96%;
 }
 
-<body style {
-    background-color: darkcyan;
-}
 
+#all {
+    width: 26%;
+    margin: 0 auto;
+}
+#inputShowScore {
+    width: 97%;
+}
