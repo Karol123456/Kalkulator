@@ -20,3 +20,22 @@ body{background-color:white;}
 .btn-disabled{
     background-color: gray;
 }
+
+#inputShowScore {
+    border: none;
+    border-bottom: greenyellow solid 1px
+}
+.btn:hover {
+background-color: honeydew;
+
+}
+#inputShowScore:focus{
+    border: none;
+    border-bottom: yellowgreen 1px;
+    outline: none;
+}
+
+<body style {
+    background-color: darkcyan;
+}
+
